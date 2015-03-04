@@ -1,0 +1,5 @@
+c:\users\nicholas\documents\visual studio 2010\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+c:\users\nicholas\documents\visual studio 2010\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+c:\users\nicholas\documents\visual studio 2010\Projects\ConsoleApplication22\ConsoleApplication22\obj\x86\Debug\ConsoleApplication22.exe
+c:\users\nicholas\documents\visual studio 2010\Projects\ConsoleApplication22\ConsoleApplication22\obj\x86\Debug\ConsoleApplication22.pdb
+C:\Users\Nicholas\Documents\Visual Studio 2010\Projects\ConsoleApplication22\ConsoleApplication22\obj\x86\Debug\ConsoleApplication22.csprojResolveAssemblyReference.cache
